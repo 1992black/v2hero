@@ -1,0 +1,22 @@
+{
+  "name": "v2hero",
+  "description": "deploy v2hero to Heroku.",
+  "keywords": ["v2hero"],
+  "env": {
+    "VER": {
+       "description": "输入v2hero Core 版本号（latest表示最新版本）",
+       "value": "latest"
+     }, 
+    "UUID": {
+       "description": "Vmess协议默认UUID，请输入自己的UUID",
+       "value": "8fd6dadc-0d59-4ae7-93bb-e6b8a231c2c2"
+     },
+    "V2RAY_RAY_BUFFER_SIZE": {
+       "description": "每个连接的缓存大小，单位MB",
+       "value": "10"
+     }
+  },
+  "website": "https://github.com/1992black/v2hero",
+  "repository": "https://github.com/1992black/v2hero",
+  "stack": "container"
+ }
