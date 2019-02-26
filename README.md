@@ -1,3 +1,6 @@
+# v2ray-heroku
+> 部署
+# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://https://github.com/1992black/v2hero)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)
 # v2hero  [![Build Status](https://travis-ci.org/onplus/v2hero.svg?branch=core-3.1)](https://travis-ci.org/onplus/v2hero)
 本项目是一个利用Travis-CI部署Docker到Heroku 的学习示例。
 
